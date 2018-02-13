@@ -7,6 +7,6 @@ The data are saved as text files and the data columns are tabulator delimited.
 
 In each file, the data columns are organised as follows:
 
-Treenumber    |Number assigned to the tree described in a particular row
-Species       |Tree species coded in letters using the UK Forestry Commission species codings, e.g. SS - Sitka spruce
-dbh           |Stem diameter at breast height (1.3 m above ground level) in cm
+Treenumber    &nbsp; Number assigned to the tree described in a particular row <br>
+Species       &nbsp; Tree species coded in letters using the UK Forestry Commission species codings, e.g. SS - Sitka spruce <br>
+dbh           &nbsp; Stem diameter at breast height (1.3 m above ground level) in cm <br>
